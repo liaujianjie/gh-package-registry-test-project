@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Liau Jian Jie",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@liaujianjie/gh-package-registry-test-public": "^1.0.0"
+  }
 }
