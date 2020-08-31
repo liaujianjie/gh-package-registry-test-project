@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@liaujianjie/gh-package-registry-test-private@^1.0.2":
+  version "1.0.2"
+  resolved "https://npm.pkg.github.com/download/@liaujianjie/gh-package-registry-test-private/1.0.2/af5ad9317d2ec2c74f4af953fb0d1c0268babc0140f9d5a0f649ee312c268891#5f0f9790802628eddd150a7b1015d7be984195f7"
+  integrity sha512-2jaLAjxn6PkMFP13rOd9iYY2hfiBgqvQ2c/Q+86A5hp6NSoAtwZu7pZDozS1MnyT5wUWBW3eAiLx9aeayLjeew==
+
 "@liaujianjie/gh-package-registry-test-public@^1.0.0":
   version "1.0.0"
   resolved "https://npm.pkg.github.com/download/@liaujianjie/gh-package-registry-test-public/1.0.0/ba94421f82d4d5e2b2bb10a6775b2765ee3d0b9513fbded176e29dd9d0181cf3#ed6655dd7fcb20bb6fbb4bf66b976cc0183c6660"
