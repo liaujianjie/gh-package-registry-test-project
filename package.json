@@ -6,6 +6,6 @@
   "license": "MIT",
   "dependencies": {
     "@liaujianjie/gh-package-registry-test-private": "^1.0.2",
-    "@liaujianjie/gh-package-registry-test-public": "^1.0.0"
+    "@liaujianjie/gh-package-registry-test-public": "^1.0.1"
   }
 }
